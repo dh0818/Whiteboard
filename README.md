@@ -1,4 +1,8 @@
 # Whiteboard
+- Developed whiteboard-related functions like drawing shape objects (polygon, flag, heart, chatbox, star), drawing line objects with customizable arrowheads (circle, rectangle, triangle on both ends), erasing objects, and customizing objects.
+- Developed account-related functions like login using Google OAuth / bearer authentication, forget/reset the password, update profile name/password/avatar, and save/load files to/from Google Drive.
+- Utilized: Frontend: JavaScript, HTML, CSS, Sass, Fabric.js, mswjs, Socket.IO, React, React Router, RxJS, Vue, Vue Router, Vuex, Quasar, SVG (path), Google Drive/login API; Backend: Node.js, Express, SQL, PostgreSQL, Docker, Axios, Joi, Nodemailer, Swagger, Postman, HTTP.
+
 **01.Login Page**  
 ![Alt text](https://imgur.com/nZb4dk8.png "01.login page")  
 
